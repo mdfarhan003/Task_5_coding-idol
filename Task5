@@ -1,0 +1,84 @@
+<html>
+<bead>
+     <title>web page</title>
+ <style>
+   .page{
+       background-color:wheat;
+       margin-top:10px;
+       padding:10px 10px 50px 10px;
+       border:5px;
+       height:390px;
+       width:990px;
+       border-width:5px;
+       border-color:red;
+       border-style:solid;
+     /* display:inline;*/
+   }
+ 
+ .page1{
+     height:100px;
+     width:100px;
+     border:2px solid red;
+    
+   display:inline;
+     padding:30px;
+     margin:210px 40px 20px 40px;
+    /* background-color:cream;*/
+    text-align:center;
+    color:green;
+    font-family:justify
+    font-size:40px;
+    
+     
+ }
+ .box{
+        height:60px;
+        width:780px;
+        border:2px solid red;
+        margin:20px 48px 150px 48px;
+        padding:40px;
+    /* display:inline;*/
+    font-size:25px;
+    font-family:justify;
+    text-align:center;
+    color:green;
+ }
+   .heading{
+       height:40px;
+       width:990px;
+       text-align:center;
+      color:red;
+       margin-top:60px;
+       background-color:wheat;
+   }
+ 
+ 
+ </style>
+ </head>
+ 
+ <body>
+     <div class="heading"><h1>Assignment_1</h1></div>
+     
+     
+ <div class="page">
+     <div class="box">Hey Everyone I'm  Md Farhan javed, form gaya district,bihar.Now I'm pursuing Deploma course for 3 years.I completed 1st year and I promoted in 2nd year, I'm a computer science engineering.</div>
+     
+     
+     <div class="page1">I am farhan</div>
+     
+     <div class="page1">I am farhan</div>
+     
+     <div class="page1">I am farhan</div>
+     
+     <div class="page1">I am farhan</div>
+ 
+ 
+ </div>
+
+ 
+ 
+ 
+ 
+ 
+ </body>
+ </html>
